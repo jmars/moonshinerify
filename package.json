@@ -1,0 +1,21 @@
+{
+  "name": "moonshinerify",
+  "version": "0.1.0",
+  "description": "A browserify transform for Lua",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "GPL",
+  "dependencies": {
+    "browserify-transform-tools": "~1.2.1",
+    "co": "~3.0.2",
+    "thunkify": "0.0.1",
+    "temp": "~0.6.0",
+    "moonshine": "0.0.9"
+  },
+  "devDependencies": {
+    "regenerator": "^0.4.1"
+  }
+}
