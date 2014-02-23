@@ -22,7 +22,6 @@ var exec           = require('child_process').exec,
 		fs             = require('fs'),
 		path           = require('path'),
 		transformTools = require('browserify-transform-tools'),
-		traverse       = require('traverse');
 		Parser         = require('moonshine/distillery/distillery.moonshine.js').Parser;
 
 var readFile = thunkify(fs.readFile),

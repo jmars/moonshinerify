@@ -4,5 +4,5 @@ A browserify transform to automatically transform .lua scripts into JSON bytecod
 Moonshine.
 
 ## Building
-		npm install
-		make
+	npm install
+	make
